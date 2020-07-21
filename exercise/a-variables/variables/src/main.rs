@@ -6,6 +6,7 @@ fn main() {
 
   println!("Firing {} of {} missiles",ready,missiles);
 
+  // READY = 4;
   // missiles = missiles - ready;
 
   println!("{} missiles left",missiles - ready)
